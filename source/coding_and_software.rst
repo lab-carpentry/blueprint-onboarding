@@ -1,7 +1,7 @@
 Coding and Software
 ===================
 
-Commenting: How should comments be included in code written for lab comments,
+Commenting: How should comments be included in code written for lab software,
 and to what standards?
 
 Coding Standards: How do we shape our active lines of code in form and
