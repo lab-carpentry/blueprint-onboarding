@@ -1,7 +1,7 @@
 Expectations
 ============
 
-Code of Conduct: How do we behave?
+Code of Conduct: What rules are all lab members expected to follow?
 
 Authorship: How do we confer authorship?
 
