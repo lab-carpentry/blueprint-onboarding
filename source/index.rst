@@ -6,20 +6,23 @@
 Welcome to Lab Carpentry
 ========================
 
+Lab Carpentry provides management tools for academic research labs. We
+have extracted practices that we find useful, such as the construction of
+an onboarding document, and we provide templates of such practices.
+
 Contents:
 
 .. toctree::
    :maxdepth: 2
 
+   meta
    mission_statement
    expectations
    infrastructure
    communication
    coding_and_software
-   social_media_policy
    canonical_reads
    project
-   meta
 
 How to Modify this Document
 ===========================
@@ -33,4 +36,3 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
-
