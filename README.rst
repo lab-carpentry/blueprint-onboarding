@@ -30,4 +30,8 @@ Club, held at UC Davis on October 10th and 11th, by:
 License
 -------
 
-not yet specified -- CC0? CC-BY?
+Lab Carpentry is available under the CC0 license --
+
+http://creativecommons.org/publicdomain/zero/1.0/legalcode.txt
+
+-- free for all to use, edit, remix, and reproduce.
