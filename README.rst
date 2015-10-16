@@ -3,7 +3,7 @@ research labs with resources for bringing new people on board.
 
 You can see the full template site here, ::
 
-   http://lab-carpentry.readthedocs.org/en/latest/
+   http://labcarpentry.org/
 
 The master repository is here, on Bitbucket::
 
