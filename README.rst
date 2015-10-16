@@ -19,13 +19,13 @@ Authors and Contributors
 ------------------------
 
 Lab Carpentry was initially created at the 2015 Moore DDD Training
-Club, held at UC Davis on October 10th and 11th, by
+Club, held at UC Davis on October 10th and 11th, by:
 
 * Matthew Turk
 * Blair Sullivan
 * Raman Shah
 * Casey Greene
-* C. Titus Brown
+* \C. Titus Brown
 
 License
 -------
