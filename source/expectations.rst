@@ -12,7 +12,7 @@ change if the primary developer leaves the lab?
 
 Project Leadership: When software development is funded, how is the leadership
 direction established for projects developed in the lab?  Is there a
-consensus-based approach, is there are strategy for governance, does it include
+consensus-based approach, is there a strategy for governance, does it include
 external participants?  How is leadership broken down between technical and
 social?
 
