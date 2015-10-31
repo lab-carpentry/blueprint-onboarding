@@ -28,7 +28,15 @@ How to Modify this Document
 ===========================
 
 The skeleton repository for this document is at
-http://bitbucket.org/lab-carpentry/lab-carpentry/
+http://bitbucket.org/lab-carpentry/lab-carpentry/ .  To make changes, fork the
+document, make the changes you wish to see to the template, and issue a pull
+request.
+
+How to Use this Document
+========================
+
+Fork the repository, and in a branch with your lab name, extend the text
+(and add text as necessary) where appropriate.
 
 Indices and tables
 ==================
