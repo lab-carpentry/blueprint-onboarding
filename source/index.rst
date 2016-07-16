@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Lab Carpentry
+Welcome to the Lab Carpentry onboarding blueprint
 ========================
 
 Lab Carpentry provides management tools for academic research labs. We
@@ -21,26 +21,19 @@ Contents:
    infrastructure
    communication
    coding_and_software
-   canonical_reads
-   project
 
 How to Modify this Document
 ===========================
 
 The skeleton repository for this document is at
-http://bitbucket.org/lab-carpentry/lab-carpentry/ .  To make changes, fork the
+http://github.com/lab-carpentry/blueprint-onboarding/ .  To make changes, fork the
 document, make the changes you wish to see to the template, and issue a pull
 request.
 
 How to Use this Document
 ========================
 
-Fork the repository, and in a branch with your lab name, extend the text
+You can copy and paste this into your own onboarding document. If you'd
+like to use this structure and the ReadTheDocs build system, you can fork
+the repository, and in a branch with your lab name, extend the text
 (and add text as necessary) where appropriate.
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
