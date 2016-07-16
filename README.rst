@@ -1,17 +1,17 @@
-This is the "lab carpentry" template site, an effort to provide data-intensive
+This is the Lab Carpentry blueprint for onboarding. This is an effort to provide
 research labs with resources for bringing new people on board.
 
-You can see the full template site here, ::
+You can learn more about Lab Carpentry at ::
 
    http://labcarpentry.org/
 
-The master repository is here, on Bitbucket::
+The master repository for the onboarding document is here, on GitHub::
 
-   https://bitbucket.org/lab-carpentry/lab-carpentry/
+   https://github.com/lab-carpentry/blueprint-onboarding/
 
 and we are happy to take pull requests.
 
-The Lab Carpentry template site is written in `reStructuredText
+The Lab Carpentry blueprints are written in `reStructuredText
 <http://docutils.sourceforge.net/rst.html>`__, and built using `Sphinx
 <http://sphinx-doc.org/>`__.
 
