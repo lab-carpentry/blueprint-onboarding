@@ -23,7 +23,7 @@ Contents:
    coding_and_software
 
 How to Modify this Document
-===========================
+----------------------------
 
 The skeleton repository for this document is at
 http://github.com/lab-carpentry/blueprint-onboarding/ .  To make changes, fork the
@@ -31,7 +31,7 @@ document, make the changes you wish to see to the template, and issue a pull
 request.
 
 How to Use this Document
-========================
+----------------------------
 
 You can copy and paste this into your own onboarding document. If you'd
 like to use this structure and the ReadTheDocs build system, you can fork
